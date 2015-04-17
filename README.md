@@ -2,6 +2,7 @@ evoFilter
 =========
 https://github.com/vanchelo/evoFilter
 
+<code>
 Установка:
 скопировать все
 ==========assets/libs/========================
@@ -209,3 +210,5 @@ php_fast_cache.php
 кнопка СБРОСИТЬ можно так
 <input type="reset" class="float-l" name="reset" id="reset" value="СБРОСИТЬ" onclick="window.location.href='[*alias*]'">
 ==============================
+
+</code>
